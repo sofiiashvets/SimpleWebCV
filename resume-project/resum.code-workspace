@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "resume-project",
+			"path": "."
+		},
+		{
+			"name": "js-training",
+			"path": "..\\js-training"
+		}
+	],
+	"settings": {}
+}

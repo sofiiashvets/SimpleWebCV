@@ -1,0 +1,45 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+li{
+    color: #8a6525;
+}
+.projects-references{
+    color: teal;
+}
+.contacts-container{
+    background: crimson;
+    width: 400px;
+    padding-left: 40px;
+    padding-top: 40px;
+    box-sizing: border-box;
+    margin-top: 40px;
+}
+.tech-skills-container{
+    background: cornflowerblue;
+    width: 400px;
+    margin-top: 40px;
+}
+.soft-skills-container{
+    background: coral;
+    width: 400px;
+    margin-top: 40px;
+}
+.tech-skills-title{
+    font-size: 30px;
+    font-weight: 400;
+
+}
+.tech-skill{
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.main-container{
+    display: flex;
+    flex-direction: column;
+
+}
